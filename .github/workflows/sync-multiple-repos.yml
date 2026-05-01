@@ -169,13 +169,21 @@ jobs:
       # -------------------- UPDATE README --------------------
       - name: Update README between markers
         run: |
+          # If README.md does not exist, create it from docs/README.fa.md
           if [ ! -f README.md ]; then
-            printf '# LatestReleaseMirror\n\n' > README.md
-            printf 'Automatically syncs the latest release from multiple GitHub repositories.\n\n' >> README.md
-            printf '<!-- RELEASES_START -->\n' >> README.md
-            printf '<!-- RELEASES_END -->\n' >> README.md
+            if [ ! -f docs/README.fa.md ]; then
+              echo "ERROR: docs/README.fa.md not found – cannot create README.md"
+              exit 1
+            fi
+            cp docs/README.fa.md README.md
+            # Ensure markers exist (add them if missing)
+            if ! grep -q "<!-- RELEASES_START -->" README.md; then
+              printf '\n<!-- RELEASES_START -->\n' >> README.md
+              printf '<!-- RELEASES_END -->\n' >> README.md
+            fi
           fi
 
+          # Ensure markers exist (also for existing README.md)
           if ! grep -q "<!-- RELEASES_START -->" README.md; then
             printf '\n<!-- RELEASES_START -->\n' >> README.md
             printf '<!-- RELEASES_END -->\n' >> README.md
