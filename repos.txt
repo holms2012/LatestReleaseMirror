@@ -24,7 +24,7 @@ therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a|windows
 MatsuriDayo/NekoBoxForAndroid|arm64
 MatsuriDayo/NekoBoxForAndroid|windows
 hiddify/hiddify-app|arm64|windows|universal
-
+MeliVPN/MeliVPN|m4
 
 
 
