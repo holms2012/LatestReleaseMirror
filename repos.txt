@@ -21,9 +21,9 @@
 therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a|windows
 2dust/v2rayNG|arm64-v8a
 2dust/v2rayN|windows
-MatsuriDayo/NekoBoxForAndroid|arm64-v8a
+MatsuriDayo/NekoBoxForAndroid|arm64
 MatsuriDayo/NekoBoxForAndroid|windows
-hiddify/hiddify-app|arm64|windows
+hiddify/hiddify-app|arm64|windows|universal
 
 
 
