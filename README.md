@@ -170,6 +170,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="melivpn--melivpn"></div>
+
+### MeliVPN--MeliVPN
+
+🔗 [source](https://github.com/MeliVPN/MeliVPN) – [<code><small>v4.0.8</small></code>](https://github.com/MeliVPN/MeliVPN/releases/tag/v4.0.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `m4.0.8.apk` | 54.7 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/MeliVPN/MeliVPN/m4.0.8.apk) |
+
+---
+
 <div id="hiddify--hiddify-app"></div>
 
 ### hiddify--hiddify-app
@@ -187,10 +199,10 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.13</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.13)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.13.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.13.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
 | `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
