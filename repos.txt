@@ -18,7 +18,7 @@
 #SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
 
 
-therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a|windows
+#therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a|windows
 2dust/v2rayNG|arm64-v8a
 2dust/v2rayN|windows
 MatsuriDayo/NekoBoxForAndroid|arm64-v8a
