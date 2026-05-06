@@ -25,7 +25,7 @@ MatsuriDayo/NekoBoxForAndroid|arm64
 MatsuriDayo/NekoBoxForAndroid|windows
 hiddify/hiddify-app|arm64|windows|universal
 MeliVPN/MeliVPN|m4
-
+qr243vbi/nekobox|windows
 
 
 # 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
