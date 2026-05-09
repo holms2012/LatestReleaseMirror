@@ -195,14 +195,31 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="qr243vbi--nekobox"></div>
+
+### qr243vbi--nekobox
+
+🔗 [source](https://github.com/qr243vbi/nekobox) – [<code><small>5.11.7</small></code>](https://github.com/qr243vbi/nekobox/releases/tag/5.11.7)
+
+| File | Size | Download |
+|------|------|----------|
+| `nekobox-5.11.7-windows-arm64-installer.exe` | 44.1 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows-arm64-installer.exe) |
+| `nekobox-5.11.7-windows-arm64.zip` | 43.9 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows-arm64.zip) |
+| `nekobox-5.11.7-windows32-installer.exe` | 37.8 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows32-installer.exe) |
+| `nekobox-5.11.7-windows32.zip` | 37.5 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows32.zip) |
+| `nekobox-5.11.7-windows64-installer.exe` | 47.7 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows64-installer.exe) |
+| `nekobox-5.11.7-windows64.zip` | 47.4 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/qr243vbi/nekobox/nekobox-5.11.7-windows64.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.14</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.14)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.14.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.14.apk) |
-| `mhrv-rs-windows-amd64.zip` | 6.9 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/holms2012/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
